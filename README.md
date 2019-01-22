@@ -5,6 +5,7 @@ In this project, we have created a virtual examination surveillance system that 
 *Programming Language: Python | Dependencies: Open CV library, pydrive library| Year: 2018*
 
 Project Guide: Gourab Nath
+
 Team: Akanksha Sahu, Karthik Raman, Himanshu Tindwani, Priyank Khuswaha, Jatin Lamba, Debayan Dutta (Batch of Jan 2018)
 
 Click here to read the project
@@ -19,6 +20,7 @@ The objective of this project was to predict credit card default from a highly i
 *Programming Language: R | Dependencies: libraries – ROSE, DMwR, SMOTE, unbalanced, ubENN, ubTomek | Year: 2017*
 
 Project Guide: Gourab Nath
+
 Team: Sunidhi, Nitin, Poojitha, Sashi, Karthik
 
 Click here to read the project
